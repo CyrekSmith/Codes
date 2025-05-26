@@ -22,4 +22,4 @@ A console-based Java application to help students track their internship applica
 - Export to a CSV in the future (optional extension)
 
 ## Author
-Cyrek Smith — Sophomore CS Major, Tuskegee University
+Cyrek Smith — Junior CS Major, Tuskegee University
